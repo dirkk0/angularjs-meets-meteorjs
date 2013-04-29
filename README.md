@@ -11,3 +11,10 @@ I didn't find out yet how to get a github repo into a meteor project, so you hav
 - start meteor
 
 and it should work.
+
+
+Thanks to https://github.com/lvbreda/Meteor_angularjs
+who provided the solution.
+
+This tries to answer this question on Stackoverflow:
+http://stackoverflow.com/questions/15727521/meteorangularjs-example
